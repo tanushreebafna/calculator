@@ -1,7 +1,8 @@
 a = int(input())
 b = int(input())
 
-print("Add =", a+b)
+print("Add =",a+b)
 print("Sub =", a-b)
 print("Mul =", a*b)
 print("Div =", a/b)
+print("thank you")
